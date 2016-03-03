@@ -25,6 +25,7 @@
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-router": "^2.0.0",
+    "typescript": "^1.9.0-dev.20160302.1",
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
   }
